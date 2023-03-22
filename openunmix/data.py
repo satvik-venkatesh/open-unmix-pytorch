@@ -934,7 +934,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--seq-dur",
         type=float,
-        default=5.0,
+        default=6.0,
         help="Duration of <=0.0 will result in the full audio",
     )
 
